@@ -25,9 +25,10 @@ url = {https://www.sciencedirect.com/science/article/pii/S1569843223001541},
 author = {Ali Jamali and Swalpa Kumar Roy and Jonathan Li and Pedram Ghamisi},
 }
 
-Acknowledgement
+Points
 ---------------------
 
+I have improved the code as compared to the paper (i.e., the number and position of Het-Convs), so the reults will be much better than the reported in the JAG journal.
 
 ## License
 
