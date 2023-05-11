@@ -28,7 +28,7 @@ author = {Ali Jamali and Swalpa Kumar Roy and Jonathan Li and Pedram Ghamisi},
 Points
 ---------------------
 
-I have improved the code as compared to the paper (i.e., the number and position of Het-Convs), so the reults will be much better than the reported in the JAG journal.
+I have improved the code as compared to the paper (i.e., the number and position of Het-Convs), so the reults will be much better than the reported results in the JAG journal.
 
 ## License
 
