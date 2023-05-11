@@ -2,4 +2,4 @@
 
 
 
-[Ali Jamali](https://www.researchgate.net/profile/Ali-Jamali), [Swalpa Kumar Roy](https://swalpa.github.io), [Avik Bhattacharya](http://www.mrslab.in/Avik/), and [Pedram Ghamisi](https://www.iarai.ac.at/people/pedramghamisi/)
+[Ali Jamali](https://www.researchgate.net/profile/Ali-Jamali), [Swalpa Kumar Roy](https://swalpa.github.io), [Jonathan Li]([http://www.mrslab.in/Avik/](https://uwaterloo.ca/geography-environmental-management/people-profiles/jonathan-li)), and [Pedram Ghamisi](https://www.iarai.ac.at/people/pedramghamisi/)
