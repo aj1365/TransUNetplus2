@@ -13,17 +13,17 @@ Citation
 
 **Please kindly cite the paper if this code is useful and helpful for your research.**
 
-@article{JAMALI2023103332,
-title = {TransU-Net++: Rethinking attention gated TransU-Net for deforestation mapping},
-journal = {International Journal of Applied Earth Observation and Geoinformation},
-volume = {120},
-pages = {103332},
-year = {2023},
-issn = {1569-8432},
-doi = {https://doi.org/10.1016/j.jag.2023.103332},
-url = {https://www.sciencedirect.com/science/article/pii/S1569843223001541},
-author = {Ali Jamali and Swalpa Kumar Roy and Jonathan Li and Pedram Ghamisi},
-}
+      @article{JAMALI2023103332,
+        title = {TransU-Net++: Rethinking attention gated TransU-Net for deforestation mapping},
+        journal = {International Journal of Applied Earth Observation and Geoinformation},
+        volume = {120},
+        pages = {103332},
+        year = {2023},
+        issn = {1569-8432},
+        doi = {https://doi.org/10.1016/j.jag.2023.103332},
+        url = {https://www.sciencedirect.com/science/article/pii/S1569843223001541},
+        author = {Ali Jamali and Swalpa Kumar Roy and Jonathan Li and Pedram Ghamisi},
+      }
 
 Points
 ---------------------
