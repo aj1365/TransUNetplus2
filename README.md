@@ -26,7 +26,7 @@ Citation
 Points
 ---------------------
 
-We have improved the code as compared to the paper (i.e., the number and position of Het-Convs), so the reults will be much better than the reported results published in the JAG journal [https://www.sciencedirect.com/science/article/pii/S0303243422000113](An attention-based U-Net for detecting deforestation within satellite sensor imagery).
+We have improved the code as compared to the paper (i.e., the number and position of Het-Convs), so the reults will be much better than the reported results published in the JAG journal [An attention-based U-Net for detecting deforestation within satellite sensor imagery](https://www.sciencedirect.com/science/article/pii/S0303243422000113).
 
 ## License
 
