@@ -26,7 +26,7 @@ Citation
 Points
 ---------------------
 
-We have improved the code as compared to the paper (i.e., the number and position of Het-Convs), so the reults will be much better than the reported results published in the JAG journal.
+We have improved the code as compared to the paper (i.e., the number and position of Het-Convs), so the results will be much better than the reported results published in the JAG journal.
 
 ## License
 
